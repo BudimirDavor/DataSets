@@ -1,0 +1,16 @@
+Experience,Age,Rank,Nationality,Go
+continuous,continuous,continuous,discrete,discrete
+,,,,class
+10.0,36.0,9.0,UK,NO
+12.0,42.0,4.0,USA,NO
+4.0,23.0,6.0,N,NO
+4.0,52.0,4.0,USA,NO
+21.0,43.0,8.0,USA,YES
+14.0,44.0,5.0,UK,NO
+3.0,66.0,7.0,N,YES
+14.0,35.0,9.0,UK,YES
+13.0,52.0,7.0,N,YES
+5.0,35.0,9.0,N,YES
+3.0,24.0,5.0,USA,NO
+3.0,18.0,7.0,UK,YES
+9.0,45.0,9.0,UK,YES

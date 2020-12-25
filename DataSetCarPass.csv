@@ -1,0 +1,16 @@
+Carname,Color,Age,Speed,AutoPass
+discrete,discrete,continuous,continuous,discrete
+,,,,class
+BMW,red,5.0,99.0,Y
+Volvo,black,7.0,86.0,Y
+VW,gray,8.0,87.0,N
+VW,white,7.0,88.0,Y
+Ford,white,2.0,111.0,Y
+VW,white,17.0,86.0,Y
+Tesla,red,2.0,103.0,Y
+BMW,black,9.0,87.0,Y
+Volvo,gray,4.0,94.0,N
+Ford,white,11.0,78.0,N
+Toyota,gray,12.0,77.0,N
+VW,white,9.0,85.0,N
+Toyota,blue,6.0,86.0,Y
