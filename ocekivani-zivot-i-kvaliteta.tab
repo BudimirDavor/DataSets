@@ -1,0 +1,191 @@
+Life expectancy	HDI	Pass	Country
+continuous	continuous	discrete	string
+		class	meta
+48.9	0.541	no	Swaziland
+50.1	0.497	no	Lesotho
+51.3	0.42	no	Sierra Leone
+51.5	0.352	no	Central African Republic
+51.9	0.474	no	Côte d'Ivoire
+51.9	0.396	no	Chad
+52.7	0.533	no	Angola
+53.1	0.527	no	Nigeria
+55.5	0.424	no	Guinea-Bissau
+55.5	0.418	no	Mozambique
+56.0	0.518	no	Cameroon
+56.1	0.418	no	South Sudan
+57.1	0.404	no	Burundi
+57.7	0.666	no	South Africa
+57.9	0.592	no	Equatorial Guinea
+58.5	0.442	no	Mali
+59.0	0.402	no	Burkina Faso
+59.1	0.435	no	Dem. Rep. Congo
+59.2	0.516	no	Zimbabwe
+59.2	0.493	no	Uganda
+59.2	0.414	no	Guinea
+59.8	0.485	no	Benin
+60.2	0.487	no	Togo
+60.5	0.452	no	Gambia
+60.7	0.479	no	Afghanistan
+60.8	0.579	no	Zambia
+61.2	0.427	no	Liberia
+61.5	0.579	no	Ghana
+61.9	0.353	no	Niger
+62.2	0.555	no	Kenya
+62.3	0.473	no	Djibouti
+62.8	0.516	no	Papua New Guinea
+62.9	0.592	no	Congo
+63.1	0.493	no	Haiti
+63.2	0.513	no	Mauritania
+63.6	0.497	no	Comoros
+63.7	0.49	no	Sudan
+63.9	0.476	no	Malawi
+64.1	0.482	no	Yemen
+64.2	0.42	no	Eritrea
+64.5	0.698	no	Botswana
+64.6	0.448	no	Ethiopia
+64.7	0.498	no	Rwanda
+64.9	0.697	no	Gabon
+65.1	0.64	no	Namibia
+65.5	0.531	no	Tanzania
+65.5	0.512	no	Madagascar
+65.7	0.691	no	Turkmenistan
+66.1	0.556	no	Myanmar
+66.2	0.588	no	Kiribati
+66.4	0.55	no	Pakistan
+66.5	0.638	no	Guyana
+66.6	0.586	no	Lao People's Democratic Republic
+66.6	0.574	no	São Tomé and Principe
+66.9	0.494	no	Senegal
+68.1	0.515	no	Solomon Islands
+68.3	0.682	no	Philippines
+68.3	0.624	no	India
+68.5	0.605	no	Timor-Leste
+68.7	0.674	no	Bolivia
+68.8	0.563	no	Cambodia
+69.1	0.689	no	Indonesia
+69.3	0.638	no	Micronesia
+69.4	0.701	no	Uzbekistan
+69.6	0.794	no	Kazakhstan
+69.6	0.649	no	Iraq
+69.6	0.627	no	Tajikistan
+69.7	0.536	no	Syrian Arab Republic
+69.8	0.735	no	Mongolia
+69.9	0.607	no	Bhutan
+70.0	0.558	yes	Nepal
+70.1	0.706	yes	Belize
+70.2	0.736	yes	Fiji
+70.3	0.804	yes	Russian Federation
+70.5	0.78	yes	Trinidad and Tobago
+70.8	0.664	yes	Kyrgyzstan
+70.9	0.759	yes	Azerbaijan
+71.1	0.743	yes	Ukraine
+71.3	0.725	yes	Suriname
+71.3	0.691	yes	Egypt
+71.5	0.796	yes	Belarus
+71.7	0.699	yes	Moldova
+71.8	0.716	yes	Libya
+72.0	0.579	yes	Bangladesh
+72.1	0.64	yes	Guatemala
+72.1	0.597	yes	Vanuatu
+72.9	0.788	yes	Palau
+73.0	0.722	yes	St. Vin. and Gren.
+73.0	0.721	yes	Tonga
+73.0	0.693	yes	Paraguay
+73.1	0.684	yes	Palestine, State of
+73.3	0.782	yes	Seychelles
+73.3	0.68	yes	El Salvador
+73.3	0.625	yes	Honduras
+73.5	0.848	yes	Lithuania
+73.5	0.648	yes	Cape Verde
+73.6	0.754	yes	Grenada
+73.7	0.722	yes	Dominican Rep.
+73.7	0.704	yes	Samoa
+74.0	0.765	yes	St. Kitts and Nevis
+74.2	0.741	yes	Jordan
+74.2	0.727	yes	Colombia
+74.3	0.83	yes	Latvia
+74.3	0.794	yes	Bulgaria
+74.3	0.647	yes	Morocco
+74.4	0.847	yes	Saudi Arabia
+74.4	0.767	yes	Venezuela
+74.5	0.8	yes	Kuwait
+74.6	0.781	yes	Mauritius
+74.6	0.74	yes	Thailand
+74.7	0.754	yes	Brazil
+74.8	0.802	yes	Romania
+74.8	0.74	yes	Peru
+74.9	0.789	yes	Malaysia
+74.9	0.743	yes	Armenia
+75.0	0.776	yes	Serbia
+75.0	0.769	yes	Georgia
+75.0	0.766	yes	Sri Lanka
+75.0	0.745	yes	Algeria
+75.0	0.725	yes	Tunisia
+75.2	0.735	yes	Saint Lucia
+75.2	0.645	yes	Nicaragua
+75.3	0.836	yes	Hungary
+75.5	0.767	yes	Turkey
+75.5	0.748	yes	Macedonia
+75.6	0.792	yes	Bahamas
+75.6	0.774	yes	Iran
+75.8	0.795	yes	Barbados
+75.8	0.73	yes	Jamaica
+75.9	0.683	yes	Viet Nam
+76.0	0.738	yes	China
+76.1	0.739	yes	Ecuador
+76.2	0.786	yes	Antigua and Barb.
+76.4	0.845	yes	Slovakia
+76.4	0.807	yes	Montenegro
+76.5	0.827	yes	Argentina
+76.6	0.75	yes	Bosnia and Herz.
+76.7	0.824	yes	Bahrain
+77.0	0.865	yes	Estonia
+77.0	0.796	yes	Oman
+77.0	0.762	yes	Mexico
+77.0	0.701	yes	Maldives
+77.1	0.84	yes	United Arab Emirates
+77.4	0.795	yes	Uruguay
+77.5	0.827	yes	Croatia
+77.6	0.855	yes	Poland
+77.8	0.788	yes	Panama
+77.9	0.726	yes	Dominica
+78.0	0.764	yes	Albania
+78.3	0.856	yes	Qatar
+78.8	0.878	yes	Czech Rep.
+79.0	0.865	yes	Brunei Darussalam
+79.2	0.92	yes	United States
+79.5	0.763	yes	Lebanon
+79.6	0.776	yes	Costa Rica
+79.6	0.775	yes	Cuba
+80.2	0.912	yes	Liechtenstein
+80.3	0.856	yes	Cyprus
+80.4	0.925	yes	Denmark
+80.6	0.89	yes	Slovenia
+80.7	0.856	yes	Malta
+80.8	0.909	yes	United Kingdom
+81.0	0.896	yes	Belgium
+81.0	0.895	yes	Finland
+81.1	0.926	yes	Germany
+81.1	0.923	yes	Ireland
+81.1	0.866	yes	Greece
+81.2	0.843	yes	Portugal
+81.5	0.858	yes	Andorra
+81.6	0.893	yes	Austria
+81.7	0.949	yes	Norway
+81.7	0.924	yes	Netherlands
+81.9	0.898	yes	Luxembourg
+82.0	0.915	yes	New Zealand
+82.0	0.847	yes	Chile
+82.1	0.901	yes	Korea
+82.2	0.92	yes	Canada
+82.3	0.913	yes	Sweden
+82.4	0.897	yes	France
+82.5	0.939	yes	Australia
+82.6	0.899	yes	Israel
+82.7	0.921	yes	Iceland
+82.8	0.884	yes	Spain
+83.1	0.939	yes	Switzerland
+83.2	0.925	yes	Singapore
+83.3	0.887	yes	Italy
+83.7	0.903	yes	Japan
+84.2	0.917	yes	Hong Kong

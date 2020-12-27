@@ -1,0 +1,22 @@
+Weight	Age	Height	Sex	Name
+continuous	continuous	continuous	discrete	string
+			class	meta
+112.5	14.0	69.0	M	Alfred
+84.0	13.0	56.5	F	Alice
+98.0	13.0	65.3	F	Barbara
+102.5	14.0	62.8	F	Carol
+102.5	14.0	63.5	M	Henry
+83.0	12.0	57.3	M	James
+84.5	12.0	59.8	F	Jane
+112.5	15.0	62.5	F	Janet
+84.0	13.0	62.5	M	Jeffrey
+99.5	12.0	59.0	M	John
+50.5	11.0	51.3	F	Joyce
+90.0	14.0	64.3	F	Judy
+77.0	12.0	56.3	F	Louise
+112.0	15.0	66.5	F	Mary
+150.0	16.0	72.0	M	Philip
+128.0	12.0	64.8	M	Robert
+133.0	15.0	67.0	M	Ronald
+85.0	11.0	57.5	M	Thomas
+112.0	15.0	66.5	M	William
